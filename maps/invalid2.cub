@@ -1,0 +1,12 @@
+NO ./textures/windows.xpm
+SO ./textures/explorer.xpm
+WE ./textures/mspaint.xpm
+EA ./textures/mspaint.xpm
+F 220,100,0
+C 300,-20,0 
+
+111111
+100001
+1000N1
+100001
+111111

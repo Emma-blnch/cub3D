@@ -1,0 +1,12 @@
+NO ./textures/windows.xpm
+SO ./textures/explorer.xpm
+WE ./textures/mspaint.xpm
+EA ./textures/errors.xpm
+F 150,150,150
+F 150,15,200
+C 100,100,255
+
+111111
+100001
+10N001
+111111
