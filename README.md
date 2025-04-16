@@ -55,8 +55,10 @@ All visuals were custom-integrated using **XPM textures**, with smooth transitio
 > Screenshots coming soon! 👀
 
 <p align="center">
-  <img src="preview1.png" width="400" alt="Cub3D Preview 1"/>
-  <img src="preview2.png" width="400" alt="Cub3D Preview 2"/>
+  <img src="cub3d-preview.png" width="400" alt="Cub3D Preview 1"/>
+  <img src="cub3d-preview-menu.png" width="400" alt="Cub3D Preview menu"/>
+  <img src="cub3d-preview-bonus1.png" width="400" alt="Cub3D Preview bonus 1"/>
+  <img src="cub3d-preview-bonus2.png" width="400" alt="Cub3D Preview bonus 2"/>
 </p>
 
 
