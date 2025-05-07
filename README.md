@@ -1,3 +1,5 @@
+[![Cub3d](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png)]
+
 # 🧱 Cub3D
 
 A 3D rendering engine written in **C**, using the **raycasting technique** (like in early games such as Wolfenstein 3D).  
