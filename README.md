@@ -1,5 +1,5 @@
 <p align="center">
-  [![cub3d](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png)
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png">
 </p>
 
 # 🧱 Cub3D
