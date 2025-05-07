@@ -1,4 +1,4 @@
-[https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png)
+[![cub3d](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png)
 
 # 🧱 Cub3D
 
